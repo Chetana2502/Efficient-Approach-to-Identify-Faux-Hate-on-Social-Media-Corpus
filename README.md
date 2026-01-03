@@ -1,2 +1,0 @@
-# Efficient-Approach-to-Identify-Faux-Hate-on-Social-Media-Corpus
-A transformer-based NLP system for distinguishing faux hate from genuine hate speech in online text. Multiple pretrained language models are fine-tuned on curated datasets and combined using ensemble learning to improve contextual understanding, semantic discrimination, and classification reliability across multilingual and code-mixed content.
