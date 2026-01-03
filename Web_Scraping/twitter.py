@@ -36,10 +36,10 @@ try:
     # Login
     driver.get("https://twitter.com/login")
     time.sleep(3)
-    driver.find_element(By.NAME, "text").send_keys("ChetanaM79086")
+    driver.find_element(By.NAME, "text").send_keys("//your_username_here//")
     driver.find_element(By.XPATH, '//span[text()="Next"]').click()
     time.sleep(2)
-    driver.find_element(By.NAME, "password").send_keys("Chetana@2302")
+    driver.find_element(By.NAME, "password").send_keys("//your_password_here//")
     driver.find_element(By.XPATH, '//span[text()="Log in"]').click()
     time.sleep(5)
 
